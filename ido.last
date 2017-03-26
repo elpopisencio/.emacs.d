@@ -1,0 +1,56 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/popix/.config/" . "i3/")
+ ("/home/" . "popix/")
+ ("/home/popix/Facultad/" . "SistemasParalelos/")
+ ("/home/popix/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/popix/.emacs.d/"
+ "/home/popix/Facultad/SistemasParalelos/"
+ "/home/popix/Facultad/SOI/"
+ "/home/popix/Facultad/"
+ "/home/popix/.config/i3/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "ejemplo.c"
+ "tutorialC.org"
+ "tp1.0rg"
+ "sistt-op.org"
+ "TP1"
+ "config"
+ "repaso.c"
+ "prog.c"
+ "ejercicio.c"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/popix/.emacs.d/" (22740 3111 344239 485000) "./" "elpa/" "ido.last" "auto-save-list/" "ido.last~" "init.el~" "ac-comphist.dat" "../" "init.el" "eshell/")
+
+ ("/home/popix/Facultad/" (22740 3110 834239 441000) "./" "sistt-op.org" "SOI/" "sistt-op.org~" "SistemasParalelos/" "../" "BatallaNaval/" "EspecificacionRequerimientos/")
+
+ ("/home/popix/" (22742 24800 947604 780000) ".Xauthority" ".Xresources~" ".bash_logout" "Imágenes/" "AndroidStudioProjects/" "./" "#.ema#" ".w3m/" ".gradle/" ".gnupg/" ".bashrc" "Vídeos/" "Facultad/" "Android/" ".zcompdump" ".zshrc" ".AndroidStudio2.3/" ".java/" ".lesshst" "Escritorio/" ".xsession-errors.old" "Público/" ".local/" "MetodosComputacionales/" ".thumbnails/" ".mozilla/" ".zhistory" ".xsession-errors" ".zsh/" ".xinitrc" ".ema" ".fehbg" ".emacs.d/" ".viminfo" "#horarios#" ".android/" ".#horarios" ".config/" ".cache/" "Plantillas/" "Descargas/" ".bash_profile" "Documentos/" "sistt-op.org~" ".dmrc" "android-studio/" ".emacs~" ".Xresources" "../" "Música/" ".esd_auth" "DeMostro/")
+
+ ("/home/popix/Facultad/SOI/" (22739 53727 583725 883000) "./" "tp1.0rg~" "tp1.0rg" "../")
+
+ ("/home/popix/.config/i3/" (22737 45105 967074 275000) "config" "./" "config~" "../")
+
+ ("/home/popix/Facultad/SistemasParalelos/" (22739 50552 250007 391000) "prog.c~" "./" "#nombreTamano.c#" "tutorialC.org" "repaso.c~" "nombreTamano.c~" "heapStack~" "ejer.c~" "prog.c" "ejemplo.c" "nombreTamano.c" "#ejemplo.c#" "ejemplo" "ejer" "ejercicio.c~" "ejemplo.c~" "#tutorialC.org#" "repaso" "ejercicio.c" "repaso.c" "heapStack" "tutorialC.org~" "tutorialC.tex" "nombreTamano" "ejercicio" "prog" "tutorialC.tex~" "../" "ejer.c")
+
+ ("/home/popix/Facultad/EspecificacionRequerimientos/" (22739 50552 250007 391000) "./" "ER-Clase 2- Recomendaciones TDC.pdf" "#ER-Clase 1-UML.pdf#" "ER-Clase 1-UML.pdf~" "ER-Clase 9 y 10 - RUP - Objetos.pdf" "Práctico 1.pdf" "ER-Clase 5 - Casos de uso del negocio.pdf" "ER-Clase 1-UML.pdf" "ER-Clase 3 y 4-Casos de Uso.pdf" "../" "ER-Clase 6 y 7-Diagramas interaccion y clases.pdf")
+
+ ("/home/popix/.config/" (22731 16373 897421 637000) "./" "htop/" "mimeapps.list" "mirage/" "user-dirs.dirs" "gtk-2.0/" "cmus/" "gtk-3.0/" "gconf/" "dconf/" "i3/" "pulse/" "user-dirs.locale~" "../" "user-dirs.locale")
+
+ ("/home/" (22712 61821 331480 756000) "./" "popix/" "../")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
