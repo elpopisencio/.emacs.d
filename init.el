@@ -60,6 +60,14 @@
 (use-package htmlize
   :ensure t)
 
+(use-package emmet-mode
+  :ensure t)
+
+(use-package pug-mode
+  :ensure t)
+
+(setq-default tab-width 4)
+
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

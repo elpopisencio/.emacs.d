@@ -1,0 +1,100 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/popix/projects/mutual/public/" . "stylesheets/")
+ ("/home/popix/projects/mutual/" . "views/")
+ ("/home/popix/projects/" . "mutual/")
+ ("/home/popix/projects/pagina/public/" . "stylesheets/")
+ ("/home/popix/projects/pagina/" . "models/")
+ ("/home/popix/node/" . "views/")
+ ("/home/popix/railsito/app/" . "controllers/")
+ ("/home/popix/railsito/" . "app/")
+ ("/home/popix/" . "projects/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/popix/projects/mutual/views/"
+ "/home/popix/projects/mutual/public/stylesheets/"
+ "/home/popix/projects/mutual/routes/"
+ "/home/popix/projects/pagina/models/"
+ "/home/popix/projects/pagina/routes/"
+ "/home/popix/projects/pagina/views/"
+ "/home/popix/projects/pagina/controllers/"
+ "/home/popix/projects/pagina/"
+ "/home/popix/.emacs.d/"
+ "/home/popix/projects/pagina/public/stylesheets/"
+ "/home/popix/node/views/"
+ "/home/popix/"
+ "/home/popix/node/"
+ "/home/popix/railsito/app/controllers/"
+ "/home/popix/railsito/config/"
+ "/home/popix/.i3/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "noticia-cuerpo.html"
+ "show-noticia.pug"
+ "add-noticia.pug"
+ "carousel.css"
+ "layout.pug"
+ "noticias.pug"
+ "noticiaRoutes.js"
+ "noticiaModel.js"
+ "index.js"
+ "index.pug"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/popix/.emacs.d/" (22945 35594 315756 80000) "init.el" "ido.last" "ac-comphist.dat" "auto-save-list/" "../" ".git/" "./" "ido.last~" ".gitignore" "elpa/")
+
+ ("/home/popix/projects/pagina/controllers/" (22940 62791 102467 338000) "noticiaController.js~" "../" "noticiaController.js" "./")
+
+ ("/home/popix/projects/pagina/views/" (22940 62816 965199 566000) "error.pug" "noticia.pug" "plain.html" "segundo.pug" "noticia.pug~" "index.pug~" "layout.pug~" "segundo.pug~" "../" "index.pug" "layout.pug" "./")
+
+ ("/home/popix/projects/mutual/routes/" (22944 64885 10129 147000) "noticiaRoutes.js~" "noticiaRoutes.js" "index.js" "../" "users.js" "./")
+
+ ("/home/popix/projects/mutual/views/" (22945 38099 452187 850000) "error.pug" "add-noticia.pug" "#noticias.pug#" "show-noticia.pug" "edit-noticia.pug" "add-noticia.pug~" "index.pug~" "layout.pug~" ".#noticias.pug" "noticias.pug~" "../" "show-noticia.pug~" "index.pug" "layout.pug" "./" "noticias.pug" "edit-noticia.pug~")
+
+ ("/home/popix/projects/mutual/public/stylesheets/" (22945 30529 383094 991000) "carousel.css~" "style.css" "carousel.css" "../" "./")
+
+ ("/home/popix/projects/mutual/" (22944 5456 387896 360000) "routes/" "views/" "controllers/" "node_modules/" "app.js~" "app.js" "models/" "public/" "../" "package.json" "./" "bin/")
+
+ ("/home/popix/" (22944 54426 957625 283000) ".gconf/" ".quodlibet/" ".npm/" ".xfce4-session.verbose-log" "sistemampn/" ".local/" "Público/" ".mongorc.js" ".AndroidStudio2.3/" "rails.org~" "teo2.org~" "a.out" ".xsession-errors" "interchange/" "node.org" "wp.password" "Android/" ".i3/" "TURISMO/" ".emacs.d/" ".gnupg/" ".profile" "maqueta/" "wp.password~" "comandos-utiles.org" ".mysql_history" ".mozilla/" ".dbshell" "JOHN MAYER Live [HD] Ain't No Sunshine-ktyhXq00RxQ.mkv" "Documentos/" "HORARIOS.pdf" ".android/" "rails.org" ".bashrc" "Música/" "backup-garay/" "modelo-contrato.txt" "projects/" "contrato-guillermo.txt~" "#lista-temas.org#" ".java/" "Imágenes/" "dfg/" "HORARIOS.odt" "Escritorio/" "node/" ".anydesk/" "node.org~" "maquina del tiempo/" "contrato-guillermo.txt" "08-07-17/" ".w3m/" "Descargas/" ".bash_logout" ".ICEauthority" ".config/" ".bash_history" "railsito/" "../" ".thumbnails/" "contraseñas-mutual.txt" "comandos-utiles.org~" "sistemampn.zip" "Plantillas/" "contrato-guillermo.odt" ".node_repl_history" "Vídeos/" "AndroidStudioProjects/" "#teo2.org#" "01.jpg" ".gimp-2.8/" "contrato-guillermo.pdf" ".cache/" ".dmrc" "modelo-contrato.txt~" "28-7-17/" ".ssh/" "./" ".Xauthority" "4-8-2017/" "wp.sql" "teo2.org" ".nano/" "windows-share/" ".gradle/" "prueba/" "logo.jpg" ".#lista-temas.org" ".xsession-errors.old")
+
+ ("/home/popix/projects/mutual/public/" (22942 55565 187497 376000) "jquery/" "bootstrap/" "popper.js/" "images/" "../" "stylesheets/" "./" "javascripts/")
+
+ ("/home/popix/projects/" (22942 53969 761211 155000) "../" "mutual/" "pagina/" "./")
+
+ ("/home/popix/projects/pagina/models/" (22940 60271 76830 197000) "noticiaModel.js" "noticia.js~" "../" "noticia.js" "./")
+
+ ("/home/popix/projects/pagina/" (22940 61341 64070 330000) "routes/" "views/" "controllers/" "node_modules/" "app.js~" "app.js" "models/" "public/" "../" "package.json" "./" "bin/")
+
+ ("/home/popix/projects/pagina/routes/" (22940 60271 80830 25000) "segundo.js~" "segundo.js" "noticiaRoutes.js" "index.js" "../" "users.js" "./")
+
+ ("/home/popix/projects/pagina/public/stylesheets/" (22940 21034 575965 715000) "style.css" "../" "./")
+
+ ("/home/popix/projects/pagina/public/" (22940 21034 567965 889000) "images/" "../" "stylesheets/" "./" "javascripts/")
+
+ ("/home/popix/node/views/" (22934 5582 696845 586000) "cabecera.pug" "add_articulo.pug~" "index.pug~" "#index.pug#" "cabecera.pug~" "../" "index.pug" "./" "add_articulo.pug")
+
+ ("/home/popix/node/" (22934 4735 34386 505000) "views/" "node_modules/" "app.js~" "app.js" "models/" "public/" "../" "package.json" ".bowerrc" "./" "#package.json#")
+
+ ("/home/popix/.i3/" (22931 14280 123492 500000) "../" "config" ".git/" "./" ".gitignore")
+
+ ("/home/popix/node/node_modules/" (22933 39299 783723 274000) "fresh/" "os-tmpdir/" "ipaddr.js/" "process-nextick-args/" "minimist/" "nested-error-stacks/" "chokidar/" "is-binary-path/" "lodash.isarguments/" "finalhandler/" "inherits/" "array-flatten/" "nopt/" "parseurl/" "accepts/" "serve-static/" "lodash.defaults/" "type-is/" "registry-url/" "arr-diff/" "negotiator/" "end-of-stream/" "brace-expansion/" "pinkie-promise/" "from/" ".bin/" "repeat-string/" "content-type/" "cookie/" "methods/" "split/" "async-each/" "rc/" "repeat-element/" "parse-glob/" "nodemon/" "semver-diff/" "debug/" "package-json/" "lodash.keys/" "set-immediate-shim/" "expand-brackets/" "readdirp/" "duplexify/" "send/" "is-stream/" "core-util-is/" "infinity-agent/" "is-dotfile/" "through/" "ms/" "is-equal-shallow/" "lodash.assign/" "pause-stream/" "preserve/" "proxy-addr/" "stream-combiner/" "string_decoder/" "expand-range/" "cookie-signature/" "is-number/" "arr-flatten/" "extglob/" "braces/" "mkdirp/" "repeating/" "os-homedir/" "on-finished/" "wrappy/" "xdg-basedir/" "path-is-absolute/" "configstore/" "depd/" "safe-buffer/" "vary/" "stream-shift/" "lodash._basecopy/" "destroy/" "mime-db/" "lodash._getnative/" "for-in/" "filename-regex/" "once/" "timed-out/" "is-finite/" "strip-ansi/" "lodash._baseassign/" "is-glob/" "lodash._bindcallback/" "is-extglob/" "deep-extend/" "update-notifier/" "content-disposition/" "escape-html/" "binary-extensions/" "statuses/" "number-is-nan/" "undefsafe/" "setprototypeof/" "touch/" "semver/" "encodeurl/" "is-posix-bracket/" "is-buffer/" "latest-version/" "lodash._isiterateecall/" "map-stream/" "glob-parent/" "supports-color/" "got/" "ansi-styles/" "normalize-path/" "isobject/" "unpipe/" "../" "es6-promise/" "randomatic/" "lowercase-keys/" "object-assign/" "is-redirect/" "pinkie/" "graceful-fs/" "object.omit/" "fill-range/" "utils-merge/" "express/" "osenv/" "micromatch/" "remove-trailing-separator/" "write-file-atomic/" "is-primitive/" "glob-base/" "anymatch/" "abbrev/" "readable-stream/" "mime-types/" "array-unique/" "path-to-regexp/" "ignore-by-default/" "is-npm/" "imurmurhash/" "mime/" "ee-first/" "has-ansi/" "event-stream/" "concat-map/" "minimatch/" "qs/" "duplexer/" "read-all-stream/" "prepend-http/" "escape-string-regexp/" "for-own/" "lodash.restparam/" "isarray/" "range-parser/" "ps-tree/" "./" "forwarded/" "is-extendable/" "strip-json-comments/" "ini/" "regex-cache/" "util-deprecate/" "merge-descriptors/" "lodash._createassigner/" "etag/" "slide/" "chalk/" "lodash.isarray/" "balanced-match/" "uuid/" "media-typer/" "string-length/" "kind-of/" "http-errors/" "ansi-regex/")
+
+ ("/home/popix/railsito/config/" (22912 64941 492689 541000) "boot.rb" "environments/" "application.rb" "environment.rb" "database.yml" "routes.rb~" "locales/" "../" "routes.rb" "initializers/" "secrets.yml" "./")
+
+ ("/home/popix/railsito/app/controllers/" (22913 1091 476745 678000) "application_controller.rb" "concerns/" "articles_controller.rb~" "articles_controller.rb" "../" "welcome_controller.rb" "./")
+
+ ("/home/popix/railsito/app/" (22912 62491 20726 288000) "assets/" "helpers/" "views/" "controllers/" "mailers/" "models/" "../" "./")
+
+ ("/home/popix/railsito/" (22918 20837 73497 429000) "test/" "config.ru" "tmp/" ".rake_tasks~" "db/" "Gemfile" "README.rdoc" "log/" "public/" "../" "vendor/" "app/" "config/" "Rakefile" "./" "lib/" "Gemfile.lock" ".gitignore" "bin/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
